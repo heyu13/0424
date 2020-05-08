@@ -69,7 +69,6 @@ def callback(request):
                         func.sendImgmap(event)
                     elif mtext == '@日期時間':
                         func.sendDatetime(event)
-                        
                     elif mtext == '@彈性配置':
                         func.sendFlex(event)
     
