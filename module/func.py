@@ -102,7 +102,7 @@ def sendButton(event):  #按鈕樣版
     actions= [],
     columns= [
       {
-        thumbnailImageUrl= https=//i.imgur.com/oPR4BiX.jpg,
+        thumbnailImageUrl= https://i.imgur.com/oPR4BiX.jpg,
         title= lets talk ,
         text= 請選擇,
         actions= [
